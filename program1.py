@@ -155,4 +155,4 @@ if 18.5<bmi<24.9 and state==1:
     print("\nYou must continue with your current routine\n You may eat diet from the list given below to stay healthy for a longer time")
     print(*my_list_foodA,*my_list_foodB,*my_list_foodC,*my_list_foodD,*my_list_foodE,*my_list_foodK,*my_list_foodcalcium, sep=" , ")
 elif 24.9<bmi<29.9 and state==2:
-    print()
+    print("hello")
